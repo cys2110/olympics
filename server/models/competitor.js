@@ -3,9 +3,8 @@ const { DataTypes, Model } = require('sequelize');
 module.exports = (sequelize, models) => {
     class Competitor extends Model {
         static associate () {
-            const { Event, Edition, Athlete, NOC } = models
-            Competitor.belongsTo(Event)
-            Competitor.belongsTo(Edition)
+            const { Competition, Athlete, NOC } = models
+            Competitor.belongsTo(Competition)
             Competitor.belongsTo(Athlete)
             Competitor.belongsTo(NOC)
         }
@@ -15,10 +14,6 @@ module.exports = (sequelize, models) => {
             type: DataTypes.INTEGER,
             primaryKey: true,
             autoIncrement: true
-        },
-        round: {
-            type: DataTypes.STRING,
-            allowNull: false
         },
         position: {
             type: DataTypes.INTEGER,

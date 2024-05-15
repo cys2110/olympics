@@ -10,7 +10,7 @@ app.use(bodyParser.json())
 app.use(logger('dev'))
 
 const db = require('./models')
-db.sequelize.sync()
+db.sequelize.sync({alter: true})
     .then(() => {
         console.log('Synced db')
     })
