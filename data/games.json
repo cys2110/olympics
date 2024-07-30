@@ -4,7 +4,7 @@
         "year": 1896,
         "season": "Summer",
         "city": "Athens",
-        "country": "USA",
+        "country": "GRE",
         "start_date": "1896-04-06",
         "end_date": "1896-04-15",
         "NOCs": 14,
@@ -109,6 +109,26 @@
         }
     },
     {
+        "number": "I",
+        "year": 1924,
+        "season": "Winter",
+        "city": "Chamonix",
+        "country": "FRA",
+        "start_date": "1924-01-25",
+        "end_date": "1924-02-05",
+        "NOCs": 16,
+        "athletes": {
+            "men": 245,
+            "women": 13
+        },
+        "events": 16,
+        "athletes_oath": ["Camille Mandrillon"],
+        "opened_by": {
+            "name": "Gaston Vidal",
+            "role": "Under Secretary of State"
+        }
+    },
+    {
         "number": "VIII",
         "year": 1924,
         "season": "Summer",
@@ -129,23 +149,23 @@
         "emblem": true
     },
     {
-        "number": "I",
-        "year": 1924,
+        "number": "II",
+        "year": 1928,
         "season": "Winter",
-        "city": "Chamonix",
-        "country": "FRA",
-        "start_date": "1924-01-25",
-        "end_date": "1924-02-05",
-        "NOCs": 16,
+        "city": "Saint Moritz",
+        "country": "SUI",
+        "start_date": "1928-02-11",
+        "end_date": "1928-02-19",
+        "NOCs": 25,
         "athletes": {
-            "men": 245,
-            "women": 13
+            "men": 438,
+            "women": 26
         },
-        "events": 16,
-        "athletes_oath": "Camille Mandrillon",
+        "events": 14,
+        "athletes_oath": ["Hans Eidenbenz"],
         "opened_by": {
-            "name": "Gaston Vidal",
-            "role": "Under Secretary of State"
+            "name": "Edmund Shulthess",
+            "title": "President"
         }
     },
     {
@@ -162,30 +182,30 @@
             "women": 277
         },
         "events": 109,
-        "athletes_oath": "Henri Denis",
+        "athletes_oath": ["Henri Denis"],
         "opened_by": {
             "name": "Hendrik",
             "title": "Prince"
         }
     },
     {
-        "number": "II",
-        "year": 1928,
+        "number": "III",
+        "year": 1932,
         "season": "Winter",
-        "city": "Saint Moritz",
-        "country": "SUI",
-        "start_date": "1928-02-11",
-        "end_date": "1928-02-19",
-        "NOCs": 25,
+        "city": "Lake Placid",
+        "country": "USA",
+        "start_date": "1932-02-04",
+        "end_date": "1932-02-15",
+        "NOCs": 17,
         "athletes": {
-            "men": 438,
-            "women": 26
+            "men": 231,
+            "women": 21
         },
         "events": 14,
-        "athletes_oath": "Hans Eidenbenz",
+        "athletes_oath": ["John Aimes Shea"],
         "opened_by": {
-            "name": "Edmund Shulthess",
-            "title": "President"
+            "name": "Franklin D. Roosevelt",
+            "title": "Governor"
         }
     },
     {
@@ -202,51 +222,10 @@
             "women": 126
         },
         "events": 117,
-        "athletes_oath": "George Calnan",
+        "athletes_oath": ["George Calnan"],
         "opened_by": {
             "name": "Charles Curtis",
             "title": "Vice President"
-        },
-        "emblem": true
-    },
-    {
-        "number": "III",
-        "year": 1932,
-        "season": "Winter",
-        "city": "Lake Placid",
-        "country": "USA",
-        "start_date": "1932-02-04",
-        "end_date": "1932-02-15",
-        "NOCs": 17,
-        "athletes": {
-            "men": 231,
-            "women": 21
-        },
-        "events": 14,
-        "athletes_oath": "John Aimes Shea",
-        "opened_by": {
-            "name": "Franklin D. Roosevelt",
-            "title": "Governor"
-        }
-    },
-    {
-        "number": "XI",
-        "year": 1936,
-        "season": "Summer",
-        "city": "Berlin",
-        "country": "GER",
-        "start_date": "1936-08-01",
-        "end_date": "1936-08-16",
-        "NOCs": 49,
-        "athletes": {
-            "men": 3632,
-            "women": 331
-        },
-        "events": 129,
-        "athletes_oath": "Rudolf Ismayr",
-        "opened_by": {
-            "name": "Adolf Hitler",
-            "title": "Chancellor"
         },
         "emblem": true
     },
@@ -264,34 +243,33 @@
             "women": 80
         },
         "events": 17,
-        "athletes_oath": "Wilhelm Bogner",
+        "athletes_oath": ["Wilhelm Bogner"],
         "opened_by": {
             "name": "Adolf Hitler",
             "title": "Chancellor"
         },
-        "emblem": true
+        "emblem": "A circle containing the Olympic rings, beneath the Zugspitze mountain, with a ski track leading up to it."
     },
     {
-        "number": "XIV",
-        "year": 1948,
+        "number": "XI",
+        "year": 1936,
         "season": "Summer",
-        "city": "London",
-        "country": "GBR",
-        "start_date": "1948-07-29",
-        "end_date": "1948-08-14",
-        "NOCs": 59,
+        "city": "Berlin",
+        "country": "GER",
+        "start_date": "1936-08-01",
+        "end_date": "1936-08-16",
+        "NOCs": 49,
         "athletes": {
-            "men": 3714,
-            "women": 390
+            "men": 3632,
+            "women": 331
         },
-        "events": 136,
-        "athletes_oath": "Donald Finlay",
-        "cauldron": ["John Mark"],
+        "events": 129,
+        "athletes_oath": ["Rudolf Ismayr"],
         "opened_by": {
-            "name": "George VI",
-            "title": "King"
+            "name": "Adolf Hitler",
+            "title": "Chancellor"
         },
-        "emblem": true
+        "emblem": "A bell with the Olympic rights under the German eagle"
     },
     {
         "number": "V",
@@ -307,34 +285,34 @@
             "women": 77
         },
         "events": 22,
-        "athletes_oath": "Riccardo Torriani",
+        "athletes_oath": ["Riccardo Torriani"],
         "opened_by": {
             "name": "Enrico Celio",
             "title": "President"
         },
-        "emblem": true
+        "emblem": "Rectangle with a sun (logo of the municipality) whose rays shin onto the olympic rings and the words 'V Jeux Olympiques d'hiver Saint Moritz 1948"
     },
     {
-        "number": "XV",
-        "year": 1952,
+        "number": "XIV",
+        "year": 1948,
         "season": "Summer",
-        "city": "Helsinki",
-        "country": "FIN",
-        "start_date": "1952-07-19",
-        "end_date": "1952-08-03",
-        "NOCs": 69,
+        "city": "London",
+        "country": "GBR",
+        "start_date": "1948-07-29",
+        "end_date": "1948-08-14",
+        "NOCs": 59,
         "athletes": {
-            "men": 4436,
-            "women": 519
+            "men": 3714,
+            "women": 390
         },
-        "events": 149,
-        "athletes_oath": "Heikki Savolainen",
-        "cauldron": ["Paavo Nurmi", "Hannes Kolehmainen"],
+        "events": 136,
+        "athletes_oath": ["Donald Finlay"],
+        "cauldron": ["John Mark"],
         "opened_by": {
-            "name": "Juho Paasikivi",
-            "title": "President"
+            "name": "George VI",
+            "title": "King"
         },
-        "emblem": true
+        "emblem": "Big Ben with the Olympic rings in the foreground"
     },
     {
         "number": "VI",
@@ -350,13 +328,78 @@
             "women": 109
         },
         "events": 22,
-        "athletes_oath": "Torbjorn Falkanger",
+        "athletes_oath": ["Torbjorn Falkanger"],
         "cauldron": ["Eigil Nansen"],
         "opened_by": {
             "name": "Ragnhild",
             "title": "HRH Princess"
         },
-        "emblem": true
+        "emblem": "A circle containing the Olympic rings and the silhouette of Oslo's new town hall"
+    },
+    {
+        "number": "XV",
+        "year": 1952,
+        "season": "Summer",
+        "city": "Helsinki",
+        "country": "FIN",
+        "start_date": "1952-07-19",
+        "end_date": "1952-08-03",
+        "NOCs": 69,
+        "athletes": {
+            "men": 4436,
+            "women": 519
+        },
+        "events": 149,
+        "athletes_oath": ["Heikki Savolainen"],
+        "cauldron": ["Paavo Nurmi", "Hannes Kolehmainen"],
+        "opened_by": {
+            "name": "Juho Paasikivi",
+            "title": "President"
+        },
+        "emblem": "The stadium tower with the Olympic rings at the top"
+    },
+    {
+        "year": 1956,
+        "season": "Summer",
+        "city": "Stockholm",
+        "country": "SWE",
+        "start_date": "1956-06-10",
+        "end_date": "1956-06-17",
+        "NOCs": 29,
+        "athletes": {
+            "men": 147,
+            "women": 12
+        },
+        "events": 6,
+        "athletes_oath": ["Henri Saint Cyr"],
+        "cauldron": ["Hans Wikne"],
+        "opened_by": {
+            "name": "Gustaf VI Adolf",
+            "title": "King"
+        },
+        "emblem": "The Olympic rings under an ancient horseman"
+    },
+    {
+        "number": "VII",
+        "year": 1956,
+        "season": "Winter",
+        "city": "Cortina d'Ampezzo",
+        "country": "ITA",
+        "start_date": "1956-01-26",
+        "end_date": "1956-02-05",
+        "NOCs": 32,
+        "athletes": {
+            "men": 687,
+            "women": 134
+        },
+        "events": 24,
+        "athletes_oath": ["Giuliana Chenal-Minuzzo"],
+        "cauldron": ["Guido Caroli"],
+        "opened_by": {
+            "name": "Giovanni Gronchi",
+            "title": "President"
+        },
+        "emblem": "Represents a stylised snowflake containing the five Olympic rings surmounted by a star, representing the emblem of the Italian National Olympic Committee, under which a summit from the Dolomites (Monte Pomagagnon), which overhangs the resort, is pictured"
     },
     {
         "number": "XVI",
@@ -372,58 +415,39 @@
             "women": 364
         },
         "events": 145,
-        "athletes_oath": "John Landy",
+        "athletes_oath": ["John Landy"],
         "cauldron": ["Ron Clarke"],
         "opened_by": {
             "title": "The Duke of Edinburgh"
         },
-        "emblem": true
+        "emblem": "Drawing of Australia under an Olympic torch and rings."
     },
     {
-        "year": 1956,
-        "season": "Summer",
-        "city": "Stockholm",
-        "country": "SWE",
-        "start_date": "1956-06-10",
-        "end_date": "1956-06-17",
-        "NOCs": 29,
+        "number": "VIII",
+        "year": 1960,
+        "season": "Winter",
+        "city": "Squaw Valley",
+        "country": "USA",
+        "start_date": "1960-02-18",
+        "end_date": "1960-02-28",
+        "NOCs": 30,
         "athletes": {
-            "men": 147,
-            "women": 12
+            "men": 521,
+            "women": 144
         },
-        "events": 6,
-        "athletes_oath": "Henri Saint Cyr",
-        "cauldron": ["Hans Wikne"],
+        "events": 27,
+        "athletes_oath": ["Carol Heiss"],
+        "cauldron": ["Kenneth Charles Henry"],
         "opened_by": {
-            "name": "Gustaf VI Adolf",
-            "title": "King"
+            "name": "Richard Nixon",
+            "title":"Vice President"
         },
-        "emblem": true
-    },
-    {
-        "number": "VII",
-        "year": 1956,
-        "city": "Cortina d'Ampezzo",
-        "country": "ITA",
-        "start_date": "1956-01-26",
-        "end_date": "1956-02-05",
-        "NOCs": 32,
-        "athletes": {
-            "men": 687,
-            "women": 134
-        },
-        "events": 24,
-        "athletes_oath": "Giuliana Chenal-Minuzzo",
-        "cauldron": ["Guido Caroli"],
-        "opened_by": {
-            "name": "Giovanni Gronchi",
-            "title": "President"
-        },
-        "emblem": true
+        "emblem": "Three superimposed triangles facing different directions, in the colours of the American flag, forming a stylised snowflake with the Olympic rings in the centre"
     },
     {
         "number": "XVII",
         "year": 1960,
+        "season": "Summer",
         "city": "Rome",
         "country": "ITA",
         "start_date": "1960-08-25",
@@ -434,12 +458,1038 @@
             "women": 611
         },
         "events": 150,
-        "athletes_oath": "Adolfo Consolini",
+        "athletes_oath": ["Adolfo Consolini"],
         "cauldron": ["Giancarlo Peris"],
         "opened_by": {
             "name": "Giovanni Gronchi",
             "title": "President"
         },
-        "emblem": true
+        "emblem": "The Olympic rings beneath a Roman she-wolf suckling Remus and Romulus, the twin brothers who, according to legend, founded the city of Rome"
+    },
+    {
+        "number": "IX",
+        "year": 1964,
+        "season": "Winter",
+        "city": "Innsbruck",
+        "country": "AUT",
+        "start_date": "1964-01-29",
+        "end_date": "1964-02-09",
+        "NOCs": 36,
+        "athletes": {
+            "men": 892,
+            "women": 199
+        },
+        "events": 34,
+        "athletes_oath": ["Paul Aste"],
+        "cauldron": ["Joseph Rieder"],
+        "opened_by": {
+            "name": "Dr. Adolf Schärf",
+            "title": "President"
+        },
+        "emblem": "The Olympic rings are depicted above the city's coat of arms, which represents a white bridge on a red background"
+    },
+    {
+        "number": "XVIII",
+        "year": 1964,
+        "season": "Summer",
+        "city": "Tokyo",
+        "country": "JPN",
+        "start_date": "1964-10-10",
+        "end_date": "1964-10-24",
+        "NOCs": 93,
+        "athletes": {
+            "men": 4473,
+            "women": 678
+        },
+        "events": 163,
+        "athletes_oath": ["Takashi Ono"],
+        "cauldron": ["Yoshinori Sakai"],
+        "opened_by": {
+            "name": "Hirohito",
+            "title": "Emperor"
+        },
+        "emblem": "Rising sun juxtaposed with the Olympic rings"
+    },
+    {
+        "number": "X",
+        "year": 1968,
+        "season": "Winter",
+        "city": "Grenoble",
+        "country": "FRA",
+        "start_date": "1968-02-06",
+        "end_date": "1968-02-18",
+        "NOCs": 37,
+        "athletes": {
+            "men": 947,
+            "women": 211
+        },
+        "events": 35,
+        "athletes_oath": ["Léo Lacroix"],
+        "cauldron": ["Alain Calmat"],
+        "opened_by": {
+            "name": "Charles de Gaulle",
+            "title": "President"
+        },
+        "emblem": "A snow crystal surrounded by three red roses, the symbol of the city, with the Olympic rings",
+        "mascots": [
+            {
+                "name": "Schuss",
+                "species": "Skier"
+            }
+        ]
+    },
+    {
+        "number": "XIX",
+        "year": 1968,
+        "season": "Summer",
+        "city": "Mexico City",
+        "country": "MEX",
+        "start_date": "1968-10-12",
+        "end_date": "1968-10-27",
+        "NOCs": 112,
+        "athletes": {
+            "men": 4735,
+            "women": 781
+        },
+        "events": 172,
+        "athletes_oath": ["Pablo Lugo Garrido"],
+        "cauldron": ["Norma Enriqueta Basilio de Sotelo"],
+        "opened_by": {
+            "name": "Gustavo Diaz Ordaz",
+            "title": "President"
+        },
+        "emblem": "'Mexico 68' with the five Olympic rings over the numerals"
+    },
+    {
+        "number": "XI",
+        "year": 1972,
+        "season": "Winter",
+        "city": "Sapporo",
+        "country": "JPN",
+        "start_date": "1972-02-03",
+        "end_date": "1972-02-13",
+        "NOCs": 35,
+        "athletes": {
+            "men": 801,
+            "women": 205
+        },
+        "events": 35,
+        "athletes_oath": ["Keiichi Suzuki"],
+        "officials_oath": ["Fumio Asaki"],
+        "cauldron": ["Hideki Takada"],
+        "opened_by": {
+            "name": "Hiro-Hiro",
+            "title": "Emperor"
+        },
+        "emblem": "Represents a combination of three elements: the Rising Sun, symbol of Japan, a snowflake and the rings with the inscription 'Sapporo 72'"
+    },
+    {
+        "number": "XX",
+        "year": 1972,
+        "season": "Summer",
+        "city": "Munich",
+        "country": "GER",
+        "start_date": "1972-08-26",
+        "end_date": "1972-09-11",
+        "NOCs": 121,
+        "athletes": {
+            "men": 6075,
+            "women": 1059
+        },
+        "events": 195,
+        "athletes_oath": ["Heidi Schüller"],
+        "officials_oath": ["Heinz Pollay"],
+        "cauldron": ["Günter Zahn"],
+        "opened_by": {
+            "name": "Gustave Heinemann",
+            "title": "President"
+        },
+        "emblem": "Crown of rays of light",
+        "mascots": [
+            {
+                "name": "Waldi",
+                "species": "Dachschund"
+            }
+        ]
+    },
+    {
+        "number": "XII",
+        "year": 1976,
+        "season": "Winter",
+        "city": "Innsbruck",
+        "country": "AUS",
+        "start_date": "1976-02-04",
+        "end_date": "1976-02-15",
+        "NOCs": 37,
+        "athletes": {
+            "men": 892,
+            "women": 231
+        },
+        "events": 37,
+        "athletes_oath": ["Werner Delle-Karth"],
+        "officials_oath": ["Willy Köstinger"],
+        "cauldron": ["Christl Haas", "Josef Feistmantl"],
+        "opened_by": {
+            "name": "Dr. Rudolf Kirschschläger",
+            "title": "President"
+        },
+        "emblem": "Identical to the emblem of the 1964 Games, except the rings are not in colour - the Olympic rings are depicted above the city's coat of arms, which represents a white bridge on a red background",
+        "mascots": [
+            {
+                "name": "Schneemann",
+                "species": "Snowman wearing a Tyrolean hat"
+            }
+        ]
+    },
+    {
+        "number": "XXI",
+        "year": 1976,
+        "season": "Summer",
+        "city": "Montreal",
+        "country": "CAN",
+        "start_date": "1976-07-17",
+        "end_date": "1976-08-01",
+        "NOCs": 92,
+        "athletes": {
+            "men": 4824,
+            "women": 1260
+        },
+        "events": 198,
+        "athletes_oath": ["Pierre Saint-Jean"],
+        "officials_oath": ["Maurice Forget"],
+        "cauldron": ["Stéphane Préfontaine", "Sandra Henderson"],
+        "opened_by": {
+            "name": "Elizabeth II",
+            "title": "Queen"
+        },
+        "emblem": "Olympic rings under an Olympic podium, also representing the letter 'M' for Montreal",
+        "mascots": [
+            {
+                "name": "Amik",
+                "species": "Beaver"
+            }
+        ]
+    },
+    {
+        "number": "XIII",
+        "year": 1980,
+        "season": "Winter",
+        "city": "Lake Placid",
+        "country": "USA",
+        "start_date": "1980-02-13",
+        "end_date": "1980-02-24",
+        "NOCs": 37,
+        "athletes": {
+            "men": 840,
+            "women": 232
+        },
+        "events": 38,
+        "athletes_oath": ["Eric Heiden"],
+        "officials_oath": ["Terry McDermott"],
+        "cauldron": ["Dr. Charles Morgan Kerr"],
+        "opened_by": {
+            "name": "Walter Mondale",
+            "title": "Vice President"
+        },
+        "emblem": "A capital L adapted to represent a mountain and a column with a serration symbolising the fact that the Games had been held twice in Lake Placid",
+        "mascots": [
+            {
+                "name": "Roni",
+                "species": "Raccoon"
+            }
+        ]
+    },
+    {
+        "number": "XXII",
+        "year": 1980,
+        "season": "Summer",
+        "city": "Moscow",
+        "country": "URS",
+        "start_date": "1980-07-19",
+        "end_date": "1980-08-03",
+        "NOCs": 80,
+        "athletes": {
+            "men": 4064,
+            "women": 1115
+        },
+        "events": 203,
+        "athletes_oath": ["Nikolay Andrianov"],
+        "officials_oath": ["Aleksandr Medved"],
+        "cauldron": ["Sergei Belov"],
+        "opened_by": {
+            "name": "Leonid Brezhnev",
+            "role": "Chairman of the Presidium of the USSR Supreme Soviet"
+        },
+        "emblem": "Olympic rings under parallel lines in a pyramid shape, crowned by a star representing the stars of the Kremlin",
+        "mascots": [
+            {
+                "name": "Misha",
+                "species": "Bear"
+            }
+        ]
+    },
+    {
+        "number": "XIV",
+        "year": 1984,
+        "season": "Winter",
+        "city": "Sarajevo",
+        "country": "YUG",
+        "start_date": "1984-02-08",
+        "end_date": "1984-02-19",
+        "NOCs": 49,
+        "athletes": {
+            "men": 998,
+            "women": 274
+        },
+        "events": 39,
+        "athletes_oath": ["Boran Krizaj"],
+        "officials_oath": ["Dragan Perovic"],
+        "cauldron": ["Sanda Dubravcic"],
+        "opened_by": {
+            "name": "Mika Spiljak",
+            "title": "President"
+        },
+        "emblem": "Symbolising a stylised snowflake with the Olympic rings above, it features the design of the embroidery produced in the Sarajevo region",
+        "mascots": [
+            {
+                "name": "Vuchko",
+                "species": "Wolf"
+            }
+        ]
+    },
+    {
+        "number": "XXIII",
+        "year": 1984,
+        "season": "Summer",
+        "city": "Los Angeles",
+        "country": "USA",
+        "start_date": "1984-07-28",
+        "end_date": "1984-08-12",
+        "NOCs": 140,
+        "athletes": {
+            "men": 8263,
+            "women": 1566
+        },
+        "events": 221,
+        "athletes_oath": ["Edwin Moses"],
+        "officials_oath": ["Sharon Weber"],
+        "cauldron": ["Rafer Johnson"],
+        "opened_by": {
+            "name": "Ronald Reagan",
+            "title": "President"
+        },
+        "emblem": "'Stars in movement': three stars (red, white and blue) crossed by 13 horizontal, parallel lines representing the movement and the 13 original colonies",
+        "mascots": [
+            {
+                "name": "Sam",
+                "species": "Eagle"
+            }
+        ]
+    },
+    {
+        "number": "XV",
+        "year": 1988,
+        "season": "Winter",
+        "city": "Calgary",
+        "country": "CAN",
+        "start_date": "1988-02-13",
+        "end_date": "1988-02-28",
+        "NOCs": 57,
+        "athletes": {
+            "men": 1122,
+            "women": 301
+        },
+        "events": 46,
+        "athletes_oath": ["Pierre Harvey"],
+        "officials_oath": ["Suzanna Morrow Francis"],
+        "cauldron": ["Robyn Perry"],
+        "opened_by": {
+            "name": "Jeanne Sauvé",
+            "title": "Governor-General"
+        },
+        "emblem": "Represents a stylised snowflake above the Olympic rings or a stylised maple leaf, the national emblem of Canada",
+        "mascots": [
+            {
+                "name": "Howdy",
+                "species": "Polar bear"
+            },
+            {
+                "name": "Hidy",
+                "species": "Polar bear"
+            }
+        ]
+    },
+    {
+        "number": "XXIV",
+        "year": 1988,
+        "season": "Summer",
+        "city": "Seoul",
+        "country": "KOR",
+        "start_date": "1988-09-17",
+        "end_date": "1988-10-02",
+        "NOCs": 159,
+        "athletes": {
+            "men": 6197,
+            "women": 2194
+        },
+        "events": 237,
+        "athletes_oath": ["Hur Jae", "Son Mi-Ha"],
+        "officials_oath": ["Lee Hak-Rae"],
+        "cauldron": ["Chung Sun-Man", "Kim Won-Tak", "Sohn Mi-Chung"],
+        "opened_by": {
+            "name": "Roh Tae-Woo",
+            "title": "President"
+        },
+        "emblem": "Traditional Korean motif, three swirls representing the meeting of peoples and progression towards world peace",
+        "mascots": [
+            {
+                "name": "Hodori",
+                "species": "Tiger"
+            }
+        ]
+    },
+    {
+        "number": "XVI",
+        "year": 1992,
+        "season": "Winter",
+        "city": "Albertville",
+        "country": "FRA",
+        "start_date": "1992-02-08",
+        "end_date": "1992-02-23",
+        "NOCs": 64,
+        "athletes": {
+            "men": 1313,
+            "women": 488
+        },
+        "events": 57,
+        "athletes_oath": ["Surya Bonaly"],
+        "officials_oath": ["Pierre Bornat"],
+        "cauldron": ["Michel Platini", "François Cyrille Grange"],
+        "opened_by": {
+            "name": "François Mitterrand",
+            "title": "President"
+        },
+        "emblem": "An Olympic flame in the colours of the Savoie (white cross on a red background) with two lines in the colours of France forming ski tracks underneath",
+        "mascots": [
+            {
+                "name": "Magique",
+                "species": "Half-imp, half-star"
+            }
+        ]
+    },
+    {
+        "number": "XXV",
+        "year": 1992,
+        "season": "Summer",
+        "city": "Barcelona",
+        "country": "ESP",
+        "start_date": "1992-07-25",
+        "end_date": "1992-08-09",
+        "NOCs": 169,
+        "athletes": {
+            "men": 6652,
+            "women": 2704
+        },
+        "events": 257,
+        "athletes_oath": ["Luis Doreste Blanco"],
+        "officials_oath": ["Eugenio Asensio"],
+        "cauldron": ["Antonio Rebollo"],
+        "opened_by": {
+            "name": "Juan Carlos I",
+            "title": "King"
+        },
+        "emblem": "A stylised athlete leaping over the Olympics rings",
+        "mascots": [
+            {
+                "name": "Cobi",
+                "species": "Dog"
+            }
+        ]
+    },
+    {
+        "number": "XVII",
+        "year": 1994,
+        "season": "Winter",
+        "city": "Lillehammer",
+        "country": "NOR",
+        "start_date": "1994-02-12",
+        "end_date": "1994-02-27",
+        "NOCs": 67,
+        "athletes": {
+            "men": 1215,
+            "women": 522
+        },
+        "events": 61,
+        "athletes_oath": ["Vegard Ulvang"],
+        "officials_oath": ["Kari Karing"],
+        "cauldron": ["Prince Haakon Magnus"],
+        "opened_by": {
+            "name": "Harald V",
+            "title": "King"
+        },
+        "emblem": "Comprised of a stylised aurora borealis against a blue background, the five Olympic rings, snow crystals and the title 'Lillehammer 94'",
+        "mascots": [
+            {
+                "name": "Haakon",
+                "species": "Norwegian child"
+            },
+            {
+                "name": "Kristin",
+                "species": "Norwegian child"
+            }
+        ]
+    },
+    {
+        "number": "XXVI",
+        "year": 1996,
+        "season": "Summer",
+        "city": "Atlanta",
+        "country": "USA",
+        "start_date": "1996-07-19",
+        "end_date": "1996-08-04",
+        "NOCs": 197,
+        "athletes": {
+            "men": 6652,
+            "women": 2704
+        },
+        "events": 257,
+        "athletes_oath": ["Teresa Edwards"],
+        "officials_oath": ["Hobie Billingsly"],
+        "cauldron": ["Muhammad Ali"],
+        "opened_by": {
+            "name": "Bill Clinton",
+            "title": "President"
+        },
+        "emblem": "The logo represented a flame composed of the five Olympic rings with the number 100 (centennial) at its base and a whimsical flame ending in four stars",
+        "mascots": [
+            {
+                "name": "Izzy",
+                "species": "Cartoon"
+            }
+        ]
+    },
+    {
+        "number": "XVIII",
+        "year": 1998,
+        "season": "Winter",
+        "city": "Nagano",
+        "country": "JPN",
+        "start_date": "1998-02-07",
+        "end_date": "1998-02-22",
+        "NOCs": 72,
+        "athletes": {
+            "men": 1389,
+            "women": 787
+        },
+        "events": 68,
+        "athletes_oath": ["Kenji Ogiwara"],
+        "officials_oath": ["Junko Hiramatsu"],
+        "cauldron": ["Midori Ito"],
+        "opened_by": {
+            "name": "Akihito",
+            "title": "Emperor"
+        },
+        "emblem": "'Mountain flower' is a flower with each petal representing an athlete practicing a winter sport and can also be seen as a snowflake symbolising the Olympic Winter Games",
+        "mascots": [
+            {
+                "name": "Sukki",
+                "species": "Owl"
+            },
+            {
+                "name": "Nokki",
+                "species": "Owl"
+            },
+            {
+                "name": "Lekki",
+                "species": "Owl"
+            },
+            {
+                "name": "Tsukki",
+                "species": "Owl"
+            }
+        ]
+    },
+    {
+        "number": "XXVII",
+        "year": 2000,
+        "season": "Summer",
+        "city": "Sydney",
+        "country": "AUS",
+        "start_date": "2000-09-15",
+        "end_date": "2000-10-01",
+        "NOCs": 199,
+        "athletes": {
+            "men": 6582,
+            "women": 4069
+        },
+        "events": 300,
+        "athletes_oath": ["Rechelle Hawkes"],
+        "officials_oath": ["Peter Kerr"],
+        "cauldron": ["Cathy Freeman"],
+        "opened_by": {
+            "name": "Sir William Deane",
+            "role": "Governor General of Australia"
+        },
+        "emblem": "The emblem represented elements of Australian culture: Australian colours, boomerangs, Sydney harbour, beaches, red earth and the indigenous inhabitants",
+        "mascots": [
+            {
+                "name": "Syd",
+                "species": "Duck-billed platypus"
+            },
+            {
+                "name": "Millie",
+                "species": "Echidnea"
+            },
+            {
+                "name": "Olly",
+                "species": "Kookaburra"
+            }
+        ]
+    },
+    {
+        "number": "XIX",
+        "year": 2002,
+        "season": "Winter",
+        "city": "Salt Lake City",
+        "country": "USA",
+        "start_date": "2002-02-08",
+        "end_date": "2002-02-24",
+        "NOCs": 77,
+        "athletes": {
+            "men": 1513,
+            "women": 886
+        },
+        "events": 78,
+        "athletes_oath": ["Jim Shea"],
+        "officials_oath": ["Allen Church"],
+        "cauldron": ["1980 US ice hockey team"],
+        "opened_by": {
+            "name": "George W. Bush",
+            "title": "President"
+        },
+        "emblem": "Represents a stylised snow crystal with bright colours (yellow, orange and blue) found in the Utah landscape",
+        "mascots": [
+            {
+                "name": "Powder",
+                "species": "Hare"
+            },
+            {
+                "name": "Copper",
+                "species": "Coyote"
+            },
+            {
+                "name": "Coal",
+                "species": "Bear"
+            }
+        ]
+    },
+    {
+        "number": "XXVIII",
+        "year": 2004,
+        "season": "Summer",
+        "city": "Athens",
+        "country": "GRE",
+        "start_date": "2004-08-12",
+        "end_date": "2004-08-28",
+        "NOCs": 201,
+        "athletes": {
+            "men": 6296,
+            "women": 4329
+        },
+        "events": 301,
+        "athletes_oath": ["Zoï Dimoschaki"],
+        "officials_oath": "Lazaros Voreaadis",
+        "cauldron": ["Nikolaos Kaklamanakis"],
+        "opened_by": {
+            "name": "Konstantinos Stephanopoulos",
+            "role": "President of the Republic"
+        },
+        "emblem": "A crown made of an olive branch, representing through a characteristic Hellenic shape the four values of the 2004 Games: legacy, participation, celebration and the human dimension",
+        "mascots": [
+            {
+                "name": "Phevos"
+            },
+            {
+                "name": "Athena"
+            }
+        ]
+    },
+    {
+        "number": "XX",
+        "year": 2006,
+        "season": "Winter",
+        "city": "Turin",
+        "country": "ITA",
+        "start_date": "2006-02-10",
+        "end_date": "2006-02-26",
+        "NOCs": 80,
+        "athletes": {
+            "men": 1550,
+            "women": 959
+        },
+        "events": 84,
+        "athletes_oath": ["Giorgio Rocca"],
+        "officials_oath": ["Fabio Bianchetti"],
+        "cauldron": ["Stefania Belmondo"],
+        "opened_by": {
+            "name": "Carlo Azeglio Ciampi",
+            "title": "President"
+        },
+        "emblem": "Represents the silhouette of the Mole Antonelliana, a building and historical monument with an unmistakable silhouette, and a mountain of ice crystals, a reference to the natural elements of the Winter Games",
+        "mascots": [
+            {
+                "name": "Neve",
+                "species": "Snowball"
+            },
+            {
+                "name": "Gliz",
+                "species": "Ice cube"
+            }
+        ],
+        "motto": "Passion Lives Here"
+    },
+    {
+        "number": "XXIX",
+        "year": 2008,
+        "season": "Summer",
+        "city": "Beijing",
+        "country": "CHN",
+        "start_date": "2008-08-08",
+        "end_date": "2008-08-24",
+        "NOCs": 204,
+        "athletes": {
+            "men": 6305,
+            "women": 4637
+        },
+        "events": 302,
+        "athletes_oath": ["Yining Zhang"],
+        "officials_oath": "Liping Huang",
+        "cauldron": ["Ning Li"],
+        "opened_by": {
+            "name": "Hu Jintao",
+            "role": "President of the People's Republic of China"
+        },
+        "emblem": "'Dancing Beijing' combined the art of calligraphy and sport, the latter being represented by a human silhouette running in celebration of victory",
+        "mascots": [
+            {
+                "name": "Beibei",
+                "species": "Fish"
+            },
+            {
+                "name": "Jingjing",
+                "species": "Panda"
+            },
+            {
+                "name": "Yingying",
+                "species": "Tibetan antelope"
+            },
+            {
+                "name": "Nini",
+                "species": "Swallow"
+            },
+            {
+                "name": "Huanhuan",
+                "species": "Olympic flame"
+            }
+        ]
+    },
+    {
+        "number": "XXI",
+        "year": 2010,
+        "season": "Winter",
+        "city": "Vancouver",
+        "country": "CAN",
+        "start_date": "2010-02-12",
+        "end_date": "2010-02-28",
+        "NOCs": 82,
+        "athletes": {
+            "men": 1522,
+            "women": 1044
+        },
+        "events": 86,
+        "athletes_oath": ["Hayley Wickenheiser"],
+        "officials_oath": ["Michel Verrault"],
+        "cauldron": ["Catriona Lemay Doan", "Steve Nash", "Nancy Greene Raine", "Wayne Gretzky"],
+        "opened_by": {
+            "name": "Michäelle Jean",
+            "role": "Governor General of Canada"
+        },
+        "emblem": "Ilanaaq the Inukshuk. Inushuks were created for centuries by the people of the Canadian north to act as guideposts across the vast terrains of snow and ice",
+        "mascots": [
+            {
+                "name": "Quatchi",
+                "species": "Sasquatch"
+            },
+            {
+                "name": "Miga",
+                "species": "Sea bear"
+            },
+            {
+                "name": "Mukmuk",
+                "species": "Vancouver Island marmot"
+            }
+        ],
+        "motto": "With Glowing Hearts"
+    },
+    {
+        "number": "XXX",
+        "year": 2012,
+        "season": "Summer",
+        "city": "London",
+        "country": "GBR",
+        "start_date": "2012-07-27",
+        "end_date": "2012-08-12",
+        "NOCs": 204,
+        "athletes": {
+            "men": 5892,
+            "women": 4675
+        },
+        "events": 302,
+        "athletes_oath": ["Sarah Stevenson"],
+        "officials_oath": "Mik Basi",
+        "coaches_oath": "Eric Farrell",
+        "cauldron": ["Callum Airlie", "Jordan Duckitt", "Desirée Henry", "Katie Kirk", "Cameron MacRitchie", "Aidan Reynolds", "Adelle Tracey"],
+        "opened_by": {
+            "name": "Elizabeth II",
+            "title": "Queen"
+        },
+        "emblem": "Based on the number 2012, the emblem includes the Olympic rings and the word 'London' and symbolises the Olympic spirit and the ability of the Games to inspire people to take part",
+        "mascots": [
+            {
+                "name": "Wenlock",
+                "species": "Steel"
+            }
+        ]
+    },
+    {
+        "number": "XXII",
+        "year": 2014,
+        "season": "Winter",
+        "city": "Sochi",
+        "country": "RUS",
+        "start_date": "2014-02-07",
+        "end_date": "2014-02-23",
+        "NOCs": 88,
+        "athletes": {
+            "men": 1659,
+            "women": 1121
+        },
+        "events": 98,
+        "athletes_oath": ["Ruslan Zakharov"],
+        "officials_oath": ["Vyacheslav Vedenin, Jr."],
+        "coaches_oath": ["Anastasia Popkova"],
+        "cauldron": ["Vladislav Tretyak", "Irina Rodnina"],
+        "opened_by": {
+            "name": "Vladimir Putin",
+            "title": "President"
+        },
+        "emblem": "'sochi2014.ru' was the first Olympic emblem that also forms a web address",
+        "mascots": [
+            {
+                "name": "Bely Mishka",
+                "species": "Polar bear"
+            },
+            {
+                "name": "Snow Leopard",
+                "species": "Leopard"
+            },
+            {
+                "name": "Zaika",
+                "species": "Hare"
+            }
+        ],
+        "motto": "Hot. Cool And Yours."
+    },
+    {
+        "number": "XXXI",
+        "year": 2016,
+        "season": "Summer",
+        "city": "Rio",
+        "country": "BRA",
+        "start_date": "2016-08-05",
+        "end_date": "2016-08-21",
+        "NOCs": 205,
+        "athletes": {
+            "men": 6179,
+            "women": 5059
+        },
+        "events": 306,
+        "athletes_oath": ["Robert Scheidt"],
+        "officials_oath": "Martinho Nobre",
+        "coaches_oath": "Adriana Santos",
+        "cauldron": ["Vanderlei Cordeiro de Lima"],
+        "opened_by": {
+            "name": "Michel Temer",
+            "role": "Interim President of Brazil"
+        },
+        "emblem": "Showcasing three human-like figures giving hands, whose position is supported by four pillars - harmonious diversity, contagious energy, exuberant nature and the Olympic spirit",
+        "mascots": [
+            {
+                "name": "Vinicius",
+                "species": "Hybrid animal representing all Brazilian mammals"
+            }
+        ]
+    },
+    {
+        "number": "XXIII",
+        "year": 2018,
+        "season": "Winter",
+        "city": "Pyeongchang",
+        "country": "KOR",
+        "start_date": "2018-02-09",
+        "end_date": "2018-02-25",
+        "NOCs": 91,
+        "athletes": {
+            "men": 1664,
+            "women": 1169
+        },
+        "events": 102,
+        "athletes_oath": ["Mo Tae-Boem"],
+        "officials_oath": ["Kim Woosik"],
+        "coaches_oath": ["Park Ki-ho"],
+        "cauldron": ["Kim Yuna"],
+        "opened_by": {
+            "name": "Moon Jae-In",
+            "title": "President"
+        },
+        "emblem": "The shapes that form the logo stem from the first consonants of each syllable in the word 'PyeongChang' when it is written in Hangul. The first character in the emblem also represents the gathering place where the three elements of Cheon-ji-in - heaven, earth and human - are in harmony",
+        "mascots": [
+            {
+                "name": "Soohorang",
+                "species": "White tiger"
+            }
+        ],
+        "motto": "Passion. Connected."
+    },
+    {
+        "number": "XXXII",
+        "year": 2020,
+        "season": "Summer",
+        "city": "Tokyo",
+        "country": "JPN",
+        "start_date": "2021-07-23",
+        "end_date": "2021-08-08",
+        "NOCs": 205,
+        "athletes": {
+            "men": 5963,
+            "women": 5457
+        },
+        "events": 339,
+        "athletes_oath": ["Yamagata Ryota", "Ishikawa Kasumi"],
+        "officials_oath": ["Asumi Tsuzaki", "Masata Kato"],
+        "coaches_oath": ["Kosei Inoue", "Reika Utsugi"],
+        "cauldron": ["Naomi Osaka"],
+        "opened_by": {
+            "name": "Naruhito",
+            "title": "Emperor"
+        },
+        "emblem": "Composed of three varieites of rectangular shapes, the design represents different countries, cultures and ways of thinking",
+        "mascots": [
+            {
+                "name": "Miraitowa",
+                "species": "Robot"
+            }
+        ]
+    },
+    {
+        "number": "XXIV",
+        "year": 2022,
+        "season": "Winter",
+        "city": "Beijing",
+        "country": "CHN",
+        "start_date": "2022-02-04",
+        "end_date": "2022-02-20",
+        "NOCs": 91,
+        "athletes": {
+            "men": 1567,
+            "women": 1267
+        },
+        "events": 109,
+        "athletes_oath": ["Wang Qiang", "Liu Jiayu"],
+        "officials_oath": ["Tao Yongchun"],
+        "coaches_oath": ["Ji Xiaoou"],
+        "cauldron": ["Dinigeer Yilamujiang", "Zhao Jiawen"],
+        "opened_by": {
+            "name": "Xi Jinping",
+            "title": "President"
+        },
+        "emblem": "Inspired by the Chinese character for 'winter', the emblem resembles a skater at the top and a skier at the bottom",
+        "mascots": [
+            {
+                "name": "Bing Dwen Dwen",
+                "species": "Panda"
+            }
+        ],
+        "motto": "Together for a Shared Future"
+    },
+    {
+        "number": "XXXIII",
+        "year": 2024,
+        "season": "Summer",
+        "city": "Paris",
+        "country": "FRA",
+        "start_date": "2024-07-26",
+        "end_date": "2024-08-11",
+        "emblem": "The emblem embraces the shape and colour of the gold medal to express one of the core values of sport: striving for excellence and combines two other separate symbols that refers to sport, the Games and France: the Olympic flame and Marianne, the personification of the French Republic",
+        "mascots": [
+            {
+                "name": "The Olympic Phryge",
+                "species": "Phrygian cap"
+            }
+        ]
+    },
+    {
+        "number": "XXV",
+        "year": 2026,
+        "season": "Winter",
+        "city": "Milano Cortina",
+        "country": "ITA",
+        "start_date": "2026-02-06",
+        "end_date": "2026-02-22",
+        "emblem": "'Futura' is made up of the number 26 in one single, ice-white trace",
+        "mascots": [
+            {
+                "name": "Milo",
+                "species": "Stoat"
+            },
+            {
+                "name": "Tina",
+                "species": "Stoat"
+            }
+        ],
+        "motto": "Dreaming together"
+    },
+    {
+        "number": "XXXIV",
+        "year": 2028,
+        "season": "Summer",
+        "city": "Los Angeles",
+        "country": "USA",
+        "start_date": "2028-07-21",
+        "end_date": "2028-08-06",
+        "emblem": "A strong and bold 'L', a 2 and 8 serve as the foundation for the emblem, with individual stories expressed through a dynamic and ever-changing 'A"
+    },
+    {
+        "number": "XXVI",
+        "year": 2030,
+        "season": "Winter",
+        "city": "French Alps",
+        "country": "FRA"
+    },
+    {
+        "number": "XXXV",
+        "year": 2032,
+        "season": "Summer",
+        "city": "Brisbane",
+        "country": "AUS",
+        "start_date": "2032-07-23",
+        "end_date": "2032-08-08"
+    },
+    {
+        "number": "XXVII",
+        "year": 2034,
+        "season": "Winter",
+        "city": "Salt Lake City",
+        "country": "USA"
     }
 ]
