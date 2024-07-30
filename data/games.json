@@ -1,0 +1,445 @@
+[
+    {
+        "number": "I",
+        "year": 1896,
+        "season": "Summer",
+        "city": "Athens",
+        "country": "USA",
+        "start_date": "1896-04-06",
+        "end_date": "1896-04-15",
+        "NOCs": 14,
+        "athletes": {
+            "men": 241
+        },
+        "events": 43,
+        "opened_by": {
+            "name": "George I",
+            "title": "King"
+        }
+    },
+    {
+        "number": "II",
+        "year": 1900,
+        "season": "Summer",
+        "city": "Paris",
+        "country": "FRA",
+        "start_date": "1900-05-14",
+        "end_date": "1900-10-28",
+        "NOCs": 24,
+        "athletes": {
+            "men": 975,
+            "women": 22
+        },
+        "events": 95
+    },
+    {
+        "number": "III",
+        "year": 1904,
+        "season": "Summer",
+        "city": "St. Louis",
+        "country": "USA",
+        "start_date": "1904-07-01",
+        "end_date": "1904-11-23",
+        "NOCs": 12,
+        "athletes": {
+            "men": 645,
+            "women": 6
+        },
+        "events": 95,
+        "opened_by": {
+            "name": "David Francis",
+            "role": "President of the Louisiana Purchase Exposition (1904 Universal Exhibition)"
+        }
+    },
+    {
+        "number": "IV",
+        "year": 1908,
+        "season": "Summer",
+        "city": "London",
+        "country": "GBR",
+        "start_date": "1908-04-27",
+        "end_date": "1908-10-31",
+        "NOCs": 22,
+        "athletes": {
+            "men": 1971,
+            "women": 37
+        },
+        "events": 110,
+        "opened_by": {
+            "name": "Edward VII",
+            "title": "King"
+        }
+    },
+    {
+        "number": "V",
+        "year": 1912,
+        "season": "Summer",
+        "city": "Stockholm",
+        "country": "SWE",
+        "start_date": "1912-05-05",
+        "end_date": "1912-07-27",
+        "NOCs": 28,
+        "athletes": {
+            "men": 2359,
+            "women": 48
+        },
+        "events": 102,
+        "opened_by": {
+            "name": "Gustav V",
+            "title": "King"
+        }
+    },
+    {
+        "number": "VII",
+        "year": 1920,
+        "season": "Summer",
+        "city": "Antwerp",
+        "country": "BEL",
+        "start_date": "1920-04-20",
+        "end_date": "1920-09-12",
+        "NOCs": 29,
+        "athletes": {
+            "men": 2561,
+            "women": 65
+        },
+        "events": 156,
+        "opened_by": {
+            "name": "Albert I",
+            "title": "King"
+        }
+    },
+    {
+        "number": "VIII",
+        "year": 1924,
+        "season": "Summer",
+        "city": "Paris",
+        "country": "FRA",
+        "start_date": "1924-05-04",
+        "end_date": "1924-07-27",
+        "NOCs": 44,
+        "athletes": {
+            "men": 2954,
+            "women": 135
+        },
+        "events": 126,
+        "opened_by": {
+            "name": "Gaston Doumergue",
+            "title": "President"
+        },
+        "emblem": true
+    },
+    {
+        "number": "I",
+        "year": 1924,
+        "season": "Winter",
+        "city": "Chamonix",
+        "country": "FRA",
+        "start_date": "1924-01-25",
+        "end_date": "1924-02-05",
+        "NOCs": 16,
+        "athletes": {
+            "men": 245,
+            "women": 13
+        },
+        "events": 16,
+        "athletes_oath": "Camille Mandrillon",
+        "opened_by": {
+            "name": "Gaston Vidal",
+            "role": "Under Secretary of State"
+        }
+    },
+    {
+        "number": "IX",
+        "year": 1928,
+        "season": "Summer",
+        "city": "Amsterdam",
+        "country": "NED",
+        "start_date": "1928-05-17",
+        "end_date": "1928-08-12",
+        "NOCs": 46,
+        "athletes": {
+            "men": 2606,
+            "women": 277
+        },
+        "events": 109,
+        "athletes_oath": "Henri Denis",
+        "opened_by": {
+            "name": "Hendrik",
+            "title": "Prince"
+        }
+    },
+    {
+        "number": "II",
+        "year": 1928,
+        "season": "Winter",
+        "city": "Saint Moritz",
+        "country": "SUI",
+        "start_date": "1928-02-11",
+        "end_date": "1928-02-19",
+        "NOCs": 25,
+        "athletes": {
+            "men": 438,
+            "women": 26
+        },
+        "events": 14,
+        "athletes_oath": "Hans Eidenbenz",
+        "opened_by": {
+            "name": "Edmund Shulthess",
+            "title": "President"
+        }
+    },
+    {
+        "number": "X",
+        "year": 1932,
+        "season": "Summer",
+        "city": "Los Angeles",
+        "country": "USA",
+        "start_date": "1932-07-30",
+        "end_date": "1932-08-14",
+        "NOCs": 37,
+        "athletes": {
+            "men": 1206,
+            "women": 126
+        },
+        "events": 117,
+        "athletes_oath": "George Calnan",
+        "opened_by": {
+            "name": "Charles Curtis",
+            "title": "Vice President"
+        },
+        "emblem": true
+    },
+    {
+        "number": "III",
+        "year": 1932,
+        "season": "Winter",
+        "city": "Lake Placid",
+        "country": "USA",
+        "start_date": "1932-02-04",
+        "end_date": "1932-02-15",
+        "NOCs": 17,
+        "athletes": {
+            "men": 231,
+            "women": 21
+        },
+        "events": 14,
+        "athletes_oath": "John Aimes Shea",
+        "opened_by": {
+            "name": "Franklin D. Roosevelt",
+            "title": "Governor"
+        }
+    },
+    {
+        "number": "XI",
+        "year": 1936,
+        "season": "Summer",
+        "city": "Berlin",
+        "country": "GER",
+        "start_date": "1936-08-01",
+        "end_date": "1936-08-16",
+        "NOCs": 49,
+        "athletes": {
+            "men": 3632,
+            "women": 331
+        },
+        "events": 129,
+        "athletes_oath": "Rudolf Ismayr",
+        "opened_by": {
+            "name": "Adolf Hitler",
+            "title": "Chancellor"
+        },
+        "emblem": true
+    },
+    {
+        "number": "IV",
+        "year": 1936,
+        "season": "Winter",
+        "city": "Garmisch-Partenkirchen",
+        "country": "GER",
+        "start_date": "1936-02-06",
+        "end_date": "1936-02-16",
+        "NOCs": 28,
+        "athletes": {
+            "men": 566,
+            "women": 80
+        },
+        "events": 17,
+        "athletes_oath": "Wilhelm Bogner",
+        "opened_by": {
+            "name": "Adolf Hitler",
+            "title": "Chancellor"
+        },
+        "emblem": true
+    },
+    {
+        "number": "XIV",
+        "year": 1948,
+        "season": "Summer",
+        "city": "London",
+        "country": "GBR",
+        "start_date": "1948-07-29",
+        "end_date": "1948-08-14",
+        "NOCs": 59,
+        "athletes": {
+            "men": 3714,
+            "women": 390
+        },
+        "events": 136,
+        "athletes_oath": "Donald Finlay",
+        "cauldron": ["John Mark"],
+        "opened_by": {
+            "name": "George VI",
+            "title": "King"
+        },
+        "emblem": true
+    },
+    {
+        "number": "V",
+        "year": "1948",
+        "season": "Winter",
+        "city": "Saint Moritz",
+        "country": "SUI",
+        "start_date": "1948-01-30",
+        "end_date": "1948-02-08",
+        "NOCs": 28,
+        "athletes": {
+            "men": 592,
+            "women": 77
+        },
+        "events": 22,
+        "athletes_oath": "Riccardo Torriani",
+        "opened_by": {
+            "name": "Enrico Celio",
+            "title": "President"
+        },
+        "emblem": true
+    },
+    {
+        "number": "XV",
+        "year": 1952,
+        "season": "Summer",
+        "city": "Helsinki",
+        "country": "FIN",
+        "start_date": "1952-07-19",
+        "end_date": "1952-08-03",
+        "NOCs": 69,
+        "athletes": {
+            "men": 4436,
+            "women": 519
+        },
+        "events": 149,
+        "athletes_oath": "Heikki Savolainen",
+        "cauldron": ["Paavo Nurmi", "Hannes Kolehmainen"],
+        "opened_by": {
+            "name": "Juho Paasikivi",
+            "title": "President"
+        },
+        "emblem": true
+    },
+    {
+        "number": "VI",
+        "year": 1952,
+        "season": "Winter",
+        "city": "Oslo",
+        "country": "NOR",
+        "start_date": "1952-02-14",
+        "end_date": "1952-02-25",
+        "NOCs": 30,
+        "athletes": {
+            "men": 585,
+            "women": 109
+        },
+        "events": 22,
+        "athletes_oath": "Torbjorn Falkanger",
+        "cauldron": ["Eigil Nansen"],
+        "opened_by": {
+            "name": "Ragnhild",
+            "title": "HRH Princess"
+        },
+        "emblem": true
+    },
+    {
+        "number": "XVI",
+        "year": 1956,
+        "season": "Summer",
+        "city": "Melbourne",
+        "country": "AUS",
+        "start_date": "1956-11-22",
+        "end_date": "1956-12-08",
+        "NOCs": 67,
+        "athletes": {
+            "men": 2791,
+            "women": 364
+        },
+        "events": 145,
+        "athletes_oath": "John Landy",
+        "cauldron": ["Ron Clarke"],
+        "opened_by": {
+            "title": "The Duke of Edinburgh"
+        },
+        "emblem": true
+    },
+    {
+        "year": 1956,
+        "season": "Summer",
+        "city": "Stockholm",
+        "country": "SWE",
+        "start_date": "1956-06-10",
+        "end_date": "1956-06-17",
+        "NOCs": 29,
+        "athletes": {
+            "men": 147,
+            "women": 12
+        },
+        "events": 6,
+        "athletes_oath": "Henri Saint Cyr",
+        "cauldron": ["Hans Wikne"],
+        "opened_by": {
+            "name": "Gustaf VI Adolf",
+            "title": "King"
+        },
+        "emblem": true
+    },
+    {
+        "number": "VII",
+        "year": 1956,
+        "city": "Cortina d'Ampezzo",
+        "country": "ITA",
+        "start_date": "1956-01-26",
+        "end_date": "1956-02-05",
+        "NOCs": 32,
+        "athletes": {
+            "men": 687,
+            "women": 134
+        },
+        "events": 24,
+        "athletes_oath": "Giuliana Chenal-Minuzzo",
+        "cauldron": ["Guido Caroli"],
+        "opened_by": {
+            "name": "Giovanni Gronchi",
+            "title": "President"
+        },
+        "emblem": true
+    },
+    {
+        "number": "XVII",
+        "year": 1960,
+        "city": "Rome",
+        "country": "ITA",
+        "start_date": "1960-08-25",
+        "end_date": "1960-09-11",
+        "NOCs": 83,
+        "athletes": {
+            "men": 4727,
+            "women": 611
+        },
+        "events": 150,
+        "athletes_oath": "Adolfo Consolini",
+        "cauldron": ["Giancarlo Peris"],
+        "opened_by": {
+            "name": "Giovanni Gronchi",
+            "title": "President"
+        },
+        "emblem": true
+    }
+]
