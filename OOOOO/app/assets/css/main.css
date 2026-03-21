@@ -1,0 +1,31 @@
+@import "tailwindcss" theme(static);
+@import "@nuxt/ui";
+@plugin 'tailwind-scrollbar';
+
+/* Remove scrollbar appearance */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Remove input number spinners */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+@theme {
+  --font-sans: "Jost", sans-serif;
+  --font-cursive: "Homemade Apple", cursive;
+}
+
+:root {
+  --ui-bg: var(--ui-color-neutral-100);
+  --ui-container: var(--container-8xl);
+  --ui-bg-elevated: var(--ui-color-neutral-300);
+}
+
+.dark {
+  --ui-bg: var(--ui-color-neutral-950);
+  --ui-bg-elevated: var(--ui-color-neutral-800);
+}
